@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Welcome to My GitHub Profile!
+### Welcome to My GitHub Profile! 👋
 
 Nice to meet you!
 
