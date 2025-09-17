@@ -1,5 +1,5 @@
 # Hi, I'm Abisoye!  
-[**Software Engineer**](https://github.com/theabisoyelawal) | [**LinkedIn**](https://www.linkedin.com/in/AbisoyeLawal/)
+[**Software Engineer**](https://github.com/theabisoyelawal) | [**LinkedIn**](https://www.linkedin.com/in/abisoye-lawal-b069952b9/)
 
 ---
 
@@ -19,7 +19,7 @@
 ---
 
 ## 🤳 Connect with me
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)]([https://www.youtube.com/c/AbisoyeLawal](https://www.youtube.com/@AbisoyeLawal-k2e))
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/@AbisoyeLawal-k2e)
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/thesoyelife)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/AbisoyeLawal)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/abisoye-lawal-b069952b9/)
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/thesoyelife/)
