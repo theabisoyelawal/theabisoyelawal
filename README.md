@@ -19,7 +19,7 @@
 ---
 
 ## 🤳 Connect with me
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/AbisoyeLawal)
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)]([https://www.youtube.com/c/AbisoyeLawal](https://www.youtube.com/@AbisoyeLawal-k2e))
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/thesoyelife)
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/AbisoyeLawal)
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/thesoyelife/)
