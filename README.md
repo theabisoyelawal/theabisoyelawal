@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Abisoye!  
+[**Software Engineer**](https://github.com/theabisoyelawal) | [**LinkedIn**](https://www.linkedin.com/in/AbisoyeLawal/)
 
-<!--
-**theabisoyelawal/theabisoyelawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 Software Development Projects
+- 🚀 Project 1: *Coming soon...*  
+- 🔧 Project 2: *Coming soon...*  
+- 📊 Project 3: *Coming soon...*  
+- 🧩 Project 4: *Coming soon...*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📺 Popular YouTube Videos
+- 🎥 Video 1: *Coming soon...*  
+- 🎬 Video 2: *Coming soon...*  
+- 📹 Video 3: *Coming soon...*  
+
+---
+
+## 🤳 Connect with me
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/c/AbisoyeLawal)
+[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/thesoyelife)
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://linkedin.com/in/AbisoyeLawal)
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/thesoyelife/)
